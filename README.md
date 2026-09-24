@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 👋 Hi, I’m @onuvictor
+- 👀 I’m interested in web development and graphic design...
+- 🌱 I’m currently building different projects...
+- 💞️ I’m looking to collaborate on what to make me grow and improve...
+
 <!--
 **onuvictor/onuvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
